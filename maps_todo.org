@@ -1,0 +1,22 @@
+#+TITLE: maps
+A website which shows the visualization of people talking about sports in twitter.
+* todos
+*** TODO we need to get different sports say upto 10
+    entire sports will be steel blue
+	1. Chess <brown>
+	2. hockey
+	3. Tennis <browinsh red>
+	4. Cricket <green>
+	5. Badminton
+	6. Athletics <yellow>
+	7. soccer <red>
+	8. volleyball <grey>
+	9. baskeyball
+	10. swimming <blue>
+*** TODO find out how to use d3 and add maps functionality
+*** TODO change the twitter scraper to extract only location and number
+*** TODO store tweets in a csv file
+    Rather than showing the number of tweets, show the location where most tweets are from
+    The page contains buttons and whenever we click on one sport tweets density of the particular sport shows up
+*** TODO store the file in database
+*** TODO start a django application
