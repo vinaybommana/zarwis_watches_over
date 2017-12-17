@@ -1,0 +1,99 @@
+count		time_zoneAmsterdam
+Tokyo
+Pacific Time (US & Canada)
+Tokyo
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Quito
+Atlantic Time (Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+Atlantic Time (Canada)
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Helsinki
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Atlantic Time (Canada)
+Pretoria
+Mexico City
+Brussels
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+America/New_York
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+London
+Pacific Time (US & Canada)
+Perth
+Pacific Time (US & Canada)
+New Delhi
+Brasilia
+Atlantic Time (Canada)
+Arizona
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Mountain Time (US & Canada)
+Quito
+Atlantic Time (Canada)
+Eastern Time (US & Canada)
+Mountain Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+London
+Tokyo
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Atlantic Time (Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+London
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Alaska
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Mountain Time (US & Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+America/New_York
+Eastern Time (US & Canada)
+Quito
+Mountain Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Pacific Time (US & Canada)

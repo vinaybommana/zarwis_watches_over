@@ -1,0 +1,391 @@
+count		time_zoneAmsterdam
+Tokyo
+Pacific Time (US & Canada)
+Tokyo
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Quito
+Atlantic Time (Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+Atlantic Time (Canada)
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Helsinki
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Atlantic Time (Canada)
+Pretoria
+Mexico City
+Brussels
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+America/New_York
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+London
+Pacific Time (US & Canada)
+Perth
+Pacific Time (US & Canada)
+New Delhi
+Brasilia
+Atlantic Time (Canada)
+Arizona
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Mountain Time (US & Canada)
+Quito
+Atlantic Time (Canada)
+Eastern Time (US & Canada)
+Mountain Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+London
+Tokyo
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Atlantic Time (Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+London
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Alaska
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Mountain Time (US & Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+America/New_York
+Eastern Time (US & Canada)
+Quito
+Mountain Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Pacific Time (US & Canada)
+Caracas
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Paris
+Central Time (US & Canada)
+London
+Eastern Time (US & Canada)
+JST
+Eastern Time (US & Canada)
+Hawaii
+Paris
+Krasnoyarsk
+Eastern Time (US & Canada)
+Beijing
+Seoul
+Pacific Time (US & Canada)
+Mountain Time (US & Canada)
+Amsterdam
+Australia/Sydney
+Buenos Aires
+Krasnoyarsk
+Central Time (US & Canada)
+Pacific Time (US & Canada)
+Amsterdam
+Irkutsk
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Tokyo
+Bangkok
+Pacific Time (US & Canada)
+Buenos Aires
+Pacific Time (US & Canada)
+Brisbane
+Tokyo
+Perth
+Santiago
+Melbourne
+London
+Tokyo
+Mexico City
+Buenos Aires
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Kyiv
+Perth
+Mexico City
+Athens
+Pacific Time (US & Canada)
+Lima
+Arizona
+Eastern Time (US & Canada)
+Tokyo
+Madrid
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Sydney
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Madrid
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Sydney
+New Delhi
+Bern
+Sydney
+London
+Sydney
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Amsterdam
+Adelaide
+London
+Pacific Time (US & Canada)
+Edinburgh
+Pacific Time (US & Canada)
+Sydney
+Melbourne
+Pacific Time (US & Canada)
+Hawaii
+Beijing
+Perth
+London
+Amsterdam
+Hawaii
+Casablanca
+Perth
+Eastern Time (US & Canada)
+Brisbane
+Sydney
+Hawaii
+Melbourne
+Sydney
+Athens
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Auckland
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+America/New_York
+Hobart
+Pacific Time (US & Canada)
+London
+Sri Jayawardenepura
+London
+London
+Pacific Time (US & Canada)
+London
+Sydney
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Adelaide
+London
+London
+Sydney
+New Delhi
+Indiana (East)
+Sydney
+Sydney
+Perth
+Wellington
+Pacific Time (US & Canada)
+Hawaii
+Sydney
+Pacific Time (US & Canada)
+America/New_York
+America/New_York
+Pacific Time (US & Canada)
+Adelaide
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Atlantic Time (Canada)
+New Delhi
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Central America
+Nairobi
+Brisbane
+Melbourne
+Amsterdam
+New Caledonia
+Pacific Time (US & Canada)
+London
+Sydney
+Pacific Time (US & Canada)
+Sydney
+Hawaii
+London
+Adelaide
+London
+Pacific Time (US & Canada)
+Amsterdam
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+New Delhi
+Chennai
+America/Los_Angeles
+Mumbai
+London
+Central Time (US & Canada)
+Sydney
+Yakutsk
+London
+London
+London
+London
+Sydney
+Sydney
+Sydney
+Wellington
+London
+Berlin
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Sydney
+New Caledonia
+Sydney
+Wellington
+Pacific Time (US & Canada)
+Arizona
+London
+Asia/Dubai
+Dublin
+Bangkok
+Bangkok
+Kuala Lumpur
+Amsterdam
+Bangkok
+Pacific Time (US & Canada)
+Amsterdam
+Pacific Time (US & Canada)
+Urumqi
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+New Delhi
+Amsterdam
+Pacific Time (US & Canada)
+Jakarta
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Alaska
+Jakarta
+Pacific Time (US & Canada)
+Tokyo
+Pacific Time (US & Canada)
+Urumqi
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Beijing
+Kuala Lumpur
+Arizona
+Pacific Time (US & Canada)
+Pacific Time (US & Canada)
+Asia/Kuala_Lumpur
+Jakarta
+Jakarta
+Pacific Time (US & Canada)
+Kuala Lumpur
+Jakarta
+Pacific Time (US & Canada)
+New Delhi
+Athens
+London
+Atlantic Time (Canada)
+Pacific Time (US & Canada)
+Madrid
+Jakarta
+Pacific Time (US & Canada)
+Taipei
+Hawaii
+Seoul
+Atlantic Time (Canada)
+London
+Bangkok
+Bangkok
+Pacific Time (US & Canada)
+Bangkok
+Jakarta
+Beijing
+Beijing
+Atlantic Time (Canada)
+Pacific Time (US & Canada)
+London
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Quito
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Pacific Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Hawaii
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Pacific Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+Pacific Time (US & Canada)
+Quito
+Atlantic Time (Canada)
+Central Time (US & Canada)
+Atlantic Time (Canada)
+Central Time (US & Canada)
+Arizona
+Pacific Time (US & Canada)
+Nairobi
+Central Time (US & Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Central Time (US & Canada)
+Eastern Time (US & Canada)
+Eastern Time (US & Canada)
+Quito
+Central Time (US & Canada)
+America/New_York
+Eastern Time (US & Canada)
+Atlantic Time (Canada)

@@ -1,7 +1,12 @@
 #+TITLE: maps
 A website which shows the visualization of people talking about sports in *twitter*.
 * todos
-*** TODO we need to get different sports say upto 10
+*** DONE we need to get different sports say upto 10
+    CLOSED: [2017-12-18 Mon 01:13]
+    - CLOSING NOTE [2017-12-18 Mon 01:13] \\
+      added games, tested for 100 counts each
+      The problem is no location is there in twitter for tweets
+      the solution for that is the timezone
     entire sports will be steel blue
 	1. Chess <brown>
 	2. hockey
