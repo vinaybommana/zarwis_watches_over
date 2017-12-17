@@ -13,6 +13,10 @@ A website which shows the visualization of people talking about sports in *twitt
 	8. volleyball <grey>
 	9. baskeyball
 	10. swimming <blue>
+**** TODO first for starters let us define the sports in a list
+           then put a tweet count of say 15000 -  the locations
+	   loop over through every sport
+	   The location should be appended to the main sports list
 *** TODO find out how to use d3 and add maps functionality
 *** TODO change the twitter scraper to extract only location and number
 *** TODO store tweets in a csv file
