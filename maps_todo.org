@@ -1,5 +1,5 @@
 #+TITLE: maps
-A website which shows the visualization of people talking about sports in twitter.
+A website which shows the visualization of people talking about sports in *twitter*.
 * todos
 *** TODO we need to get different sports say upto 10
     entire sports will be steel blue
