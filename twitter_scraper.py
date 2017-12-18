@@ -31,6 +31,7 @@ time_zone_list = list()
 user_ids = []
 
 
+# games list
 # 1. Chess <brown>
 # 2. hockey
 # 3. Tennis <browinsh red>
@@ -42,6 +43,7 @@ user_ids = []
 # 9. baskeyball
 # 10. swimming <blue>
 
+# games list
 games = [
     "Chess",
     "Hockey",
