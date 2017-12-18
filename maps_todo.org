@@ -29,3 +29,6 @@ A website which shows the visualization of people talking about sports in *twitt
     The page contains buttons and whenever we click on one sport tweets density of the particular sport shows up
 *** TODO store the file in database
 *** TODO start a django application
+*** TODO convert the timezones areas to locations to show on the maps.
+*** TODO search how to store csv files in DB
+*** TODO append the list to main sports file
